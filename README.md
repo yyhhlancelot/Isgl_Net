@@ -12,6 +12,8 @@ model_building.py includes constructing a baseline model of naive bayes and logi
 
 test_save.py uses the models trained before to predict the label of the test data and save it as the form of .csv .
 
+Result_LR.csv and Result_NB.csv is the saving format of sample submission.
+
 ## late submission
 we compare the scores of two models in late submission, the Bayes is lower than logistic regression, which is 85.746 about rank of 300th, on the contrast, score of logistic regression is 0.88948 which is about rank of 260th.
 
