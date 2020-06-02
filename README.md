@@ -6,7 +6,7 @@ Identity Shortcut Global Local Convolutional Neural Network，以下简称Isgl-N
 ![Isgl_Net.jpg](https://github.com/yyhhlancelot/Isgl_Net/blob/master/pic/Isgl_Net.jpg)
 
 ## 训练数据
-
+[百度网盘](https://blog.csdn.net/yyhhlancelot/article/details/82983987)
 
 ## 部分结果对比展示
 
