@@ -3,7 +3,7 @@ Identity Shortcut Global Local Convolutional Neural Network，以下简称Isgl-N
 
 ## 模型构建
 
-![Isgl_Net.pdf](https://github.com/yyhhlancelot/Isgl_Net/blob/master/pic/Isgl_Net.pdf)
+![Isgl_Net.jpg](https://github.com/yyhhlancelot/Isgl_Net/blob/master/pic/Isgl_Net.jpg)
 
 ## 训练数据
 
@@ -11,8 +11,8 @@ Identity Shortcut Global Local Convolutional Neural Network，以下简称Isgl-N
 ## 部分结果对比展示
 
 CNN:
-![conv3_inline15.pdf](https://github.com/yyhhlancelot/Isgl_Net/blob/master/pic/conv3_inline15.pdf)
+![conv3_inline15.jpg](https://github.com/yyhhlancelot/Isgl_Net/blob/master/pic/conv3_inline15.jpg)
 
 Isgl-Net：
-![isgl_inline15.pdf](https://github.com/yyhhlancelot/Isgl_Net/blob/master/pic/isgl_inline15.pdf)
+![isgl_inline15.jpg](https://github.com/yyhhlancelot/Isgl_Net/blob/master/pic/isgl_inline15.jpg)
 
