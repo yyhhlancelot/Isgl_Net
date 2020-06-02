@@ -1,20 +1,18 @@
-# naive bayes and logistic regression for sentiment analysis
+# 基于恒定快捷映射的深层卷积神经网络自动层位追踪方法
+Identity Shortcut Global Local Convolutional Neural Network，以下简称Isgl-Net.
 
-## Brief introduction
+## 模型构建
 
-train a naive bayes model and logistic regression model to predict the sentiment according to movie comments, and compare the scores of them.
+![Isgl_Net.pdf](https://github.com/yyhhlancelot/Isgl_Net/blob/master/pic/Isgl_Net.pdf)
 
-all.zip includes the training data and test data, and the submission format.
+## 训练数据
 
-preprocessing.py includes data preprocessing of training data and test data, and initialize the TFIV object.
 
-model_building.py includes constructing a baseline model of naive bayes and logistic regression.
+## 部分结果对比展示
 
-test_save.py uses the models trained before to predict the label of the test data and save it as the form of .csv .
+CNN:
+![conv3_inline15.pdf](https://github.com/yyhhlancelot/Isgl_Net/blob/master/pic/conv3_inline15.pdf)
 
-Result_LR.csv and Result_NB.csv is the saving format of sample submission.
+Isgl-Net：
+![isgl_inline15.pdf](https://github.com/yyhhlancelot/Isgl_Net/blob/master/pic/isgl_inline15.pdf)
 
-## late submission
-we compare the scores of two models in late submission, the Bayes is lower than logistic regression, which is 85.746 about rank of 300th, on the contrast, score of logistic regression is 0.88948 which is about rank of 260th.
-
-However, if happens to be a huge dataset, the time cost of training a logistic regression is much longer than training a bayes.
